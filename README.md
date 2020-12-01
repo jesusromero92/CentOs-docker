@@ -11,7 +11,9 @@ El trabajo consiste en instalar CentOs 8 y luego instalar Docker y Docker-compos
 ## Referencias
 
 [CentOs](https://www.centos.org/)
+
 [Configurar Red en CentOs 8](https://rm-rf.es/configurar-red-en-centos-8-y-rhel-8/)
+
 [Instalar Docker y Docker-compose en CentOs 8](https://www.howtoforge.com/install-and-use-docker-compose-on-centos-8/)
 
 ## Aclaraciones
