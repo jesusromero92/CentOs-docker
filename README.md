@@ -1,7 +1,7 @@
 # Docker en CentOs 8
 
 ## Descripción 
-EL trabajo consiste en instalar CentOs 8 y luego instalar Docker y Docker-compose en dicha máquina
+El trabajo consiste en instalar CentOs 8 y luego instalar Docker y Docker-compose en dicha máquina
 
 ## Índice
 1. -[Instalación de Docker](https://github.com/jesusromero92/CentOs-docker/blob/main/Indice/docker.md)
